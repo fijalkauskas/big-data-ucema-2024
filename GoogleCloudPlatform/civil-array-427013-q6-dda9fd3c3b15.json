@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "civil-array-427013-q6",
+  "private_key_id": "dda9fd3c3b15e4b09ab1621851f8ac465d1eaae2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCybw5GBDvjrcw0\nLenPqRAOyM5OWqf5p3N5xheovh7uJCgti3o3jYCyvoQa890PBjdmTRF34O3jsHfu\nPmN7ErUvKpVsVEi7mf7Q/x2R8X4YbP9TuirvHZ68JYTnqsMmTbmtkYRvX5XXFoci\nFYLgSyGCOJLYePQ/TaWuzVd14diXoWFwGGEO/a1k0pUMyWLp/DcmjWtyZMZdbQOy\n+w5aQkk+ZsM92Hv4YZBbYpOCTWzueLzcxjTzsrjwVhyDEn9MnyoCbpWtU2tQR8m3\nITRzn5PWNdPdwKTsjudwCMgEFnh18q6BNRVl5dkR+ZkeXAGy/UI+I0V/2NufqBrh\n+MVLdaMbAgMBAAECggEAQFWtak5Nf6Zi2a9yPXbh/MqnI/Yo2WloR9BGKIfAJDHy\nMJW5D72b2Ra7D/K8UhX2NJL2COiXLUCrxUFGYhIZNLPgY0oyXT3Fc/p/4WaWhd0K\n5Ffb8hIWcRUACf12VmGw4GV2wCdRIdeUCpSB9zfvkYGvZJCb1BU9dzy/W5f+HZEt\nyPXBoqlhgSfdl598BXECnQctM7fd88VLFVUwqV0SFW01EgIYSY5rXBlfgI/Y1WXT\nOESB81Xv44RuSmLZndfHLLQHofQNxedALiIkW4ha2Piu8lmGYMqkbLX866S5afD/\nb+rSyOH8TYOquBtMRg8n7jzwF1apPfg8sZrF5cscwQKBgQDuFgO84FQE68GrWyau\nij7sw2I6mX8OG81g/+IP/9/z3oYjsKHYnyfYbgF6pArvKOdzY1/S3XYUnuykrSuI\nLJF7K9aX1z49VFJ8eufFgd+vJqpuv+HO5rXyhvT0wNUBLugj/5hioFXg+c1854wX\nTjqeM5L8CfyXrB66AhbhMhgLWwKBgQC/3AcPW5BPc0KvxT5+pj8Gr5Je2sgdPkHJ\n0GfkQOqeipkLKZ2OnFxqPK+6hZHL87lEr0OBpHBLqL8CZdybqyrf8BFEpv8bxdp3\nFoIMPBFkieQSS+Sq6UidNMI6appaJ3YV0Kt2d8nG4aEZA+BXUyJhVSPqymfSVw1C\nBXGlbfkTQQKBgAbsmPs7QvZJrP5AzmUxHBdir06o/Cr64AQ8LOTuOiMri5cqIerc\n5hnDSUO51Z+S/vg6IaVOT4rV/GflqWhyc2Czq7AK0IKUGzoHkQoLdufvJfHGntiX\nmR8Okb00hn1cUeAKJPJpW1YJrdI+IbLj0YycT2AJIlF+7f3W5bdy74QVAoGAP+8D\nT0PU6BThoQ8ajzu4/vJc1U0UqGIJrEXNiQt045YN/+FDRrWmOiS07nP6LLuv/kpl\nNXtljGDUHelxxVIZvHwUVQtNMaUR8uNGPOt7ZERrAwnVTnrknrZpDuxdOTOzLvvV\nV2n9jE+9zkczaAYlC8hCasg+JqKpoVmNEHKAMMECgYA4rIYN/yu43U7YNbv0FH6V\nkNkD+YipwYydJcNTa/5lNPZM3tD3Iuhx9DRyVPErGJWS9Ai7OZk03AVHwOutXiKd\nfa5TsN3/8dZOmjBmguMfcouQF0AY/zF7/IDIQRnqDw9s9NEOqoe8sFMoKFoBl50v\nxhRWGie58FkUH4E97UiyTA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ucema-clase@civil-array-427013-q6.iam.gserviceaccount.com",
+  "client_id": "108213269793391419356",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ucema-clase%40civil-array-427013-q6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
